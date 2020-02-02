@@ -13,4 +13,4 @@ This code demonstrates the following concepts:
 
 *It is not a complete solution*
 
-For more information see [This Blog Post](https://codingcraftsman.wordpress.com/?p=1446)
+For more information see [This Blog Post](https://codingcraftsman.wordpress.com/2020/02/02/using-json-schema-validation-to-map-sparse-json/)
